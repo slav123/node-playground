@@ -1,0 +1,9 @@
+{
+    "name": "node-playground",
+    "description": "examples node",
+    "version": "0.0.1",
+    "dependencies": {
+        "ftp": "latest",
+        "imap": "latest"
+    }
+}
